@@ -155,3 +155,21 @@ Answer: Network anomalies are unusual patterns or events in network traffic that
 ## How to detect Network Anomalies?
 
 Answer:  To detect network anomalies, network owners must have a concept of expected or normal behavior. Detection of anomalies in network behavior demands the continuous monitoring of a network for unexpected trends or events.
+
+
+## What are the types of Supervised Learning algorithms to Anomaly Detection?
+
+Answer: Supervised learning algorithms for anomaly detection include binary classification and multiclass classification.
+
+
+## And what are the types of Unsupervised Learning algorithms to Anomaly Detection?
+
+Answer: Unsupervised learning algorithms for anomaly detection include clustering and blind signal separation.
+
+## What's an example of a hierarchical clustering algorithm?
+
+Answer: An example of a hierarchical clustering algorithm is Agglomerative Clustering.
+
+## What's Blind Source Separation?
+
+Answer: Blind Source Separation is a technique that separates a set of signals from a set of mixed signals without knowing the source signals.
