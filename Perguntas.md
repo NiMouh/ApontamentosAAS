@@ -143,3 +143,15 @@ Answer: Signature-based detection is a technique that uses a database of known m
 ## What's the difference between Signature-base detection and Anomaly detection?
 
 Answer: Signature-based detection uses a database of known malware signatures to identify malicious code, while anomaly detection identifies previously unseen patterns in the data.
+
+## What are the common reasons for outliers in a dataset?
+
+Answer: Outliers can be caused by data preprocessing errors, noise, fraudulent data, or an attempt to manipulate the data.
+
+## What are Network Anomalies?
+
+Answer: Network anomalies are unusual patterns or events in network traffic that deviate from normal behavior.
+
+## How to detect Network Anomalies?
+
+Answer:  To detect network anomalies, network owners must have a concept of expected or normal behavior. Detection of anomalies in network behavior demands the continuous monitoring of a network for unexpected trends or events.
