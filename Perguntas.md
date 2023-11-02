@@ -30,7 +30,7 @@ Answer: PCA is a linear technique, while Autoencoders can capture both linear an
 Answer: The curse of dimensionality is a term used to describe the difficulties of visualizing and analyzing data in high-dimensional spaces.
 
 ## In the context of anomaly detection, what distinguishes a "collective anomaly" from a "point anomaly"?
-Answer: Point anomalies are rare events that occur in isolation, while collective anomalies are common patterns in the data.
+Answer: Collective anomalies are single data points significantly deviating from the norm, while point anomalies involve multiple data points exhibiting a collective pattern.
 
 ## In the context of identifying cybersecurity attacks using anomaly detection, which type of attack is most likely to be detected?
 
